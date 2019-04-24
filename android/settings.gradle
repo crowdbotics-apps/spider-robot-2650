@@ -1,0 +1,3 @@
+rootProject.name = 'spider_robot_2650'
+
+include ':app'
